@@ -60,4 +60,6 @@ To integrate the VIPER template into your Xcode project, follow these steps:
 6. **Configure Your Project:**
    - After creating the files, you may need to configure your project settings, such as linking the presenter, interactor, and router to the view and setting up any necessary bindings.
 
+   ![Demo](Assets/sample.mov)
+
 By following these steps, you can easily integrate the VIPER template into your Xcode project and start using it to streamline your development process.
