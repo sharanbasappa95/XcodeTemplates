@@ -27,6 +27,7 @@ protocol PresenterToView___VARIABLE_productName___Protocol: AnyObject {
 // MARK: - Interactor Input (Presenter -> Interactor)
 protocol PresenterToInteractor___VARIABLE_productName___Protocol {
     var presenter: InteractorToPresenter___VARIABLE_productName___Protocol? { get set }
+    func fetch___VARIABLE_productName___Data()
 }
 
 // MARK: - Interactor Output (Interactor -> Presenter)
