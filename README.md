@@ -1,5 +1,5 @@
 
-# XcodeTemplates
+# Xcode Templates
 
 ## Integrating the MVVM Template into an Xcode Project
 
