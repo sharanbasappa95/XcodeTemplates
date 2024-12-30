@@ -12,7 +12,7 @@ class ___VARIABLE_productName___Interactor: PresenterToInteractor___VARIABLE_pro
     
     weak var presenter: InteractorToPresenter___VARIABLE_productName___Protocol?
     
-    func fetchMovieList() {
+    func fetch___VARIABLE_productName___Data() {
         // call API here:
        // self.presenter?.fetch___VARIABLE_productName___Failure()
         // OR

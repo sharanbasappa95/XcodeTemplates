@@ -37,7 +37,7 @@ extension ___VARIABLE_productName___Presenter: InteractorToPresenter___VARIABLE_
         view?.onFetch___VARIABLE_productName___Success()
     }
     
-    func fetchMovieListFailure(error: String) {
+    func fetch___VARIABLE_productName___Failure(error: String) {
         view?.hideActivity()
         view?.onFetch___VARIABLE_productName___Failure(error: "Fetch movie error with error code-\(error)")
     }
